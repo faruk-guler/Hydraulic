@@ -2,6 +2,8 @@
 
 This document defines the high-performance **LONG-Only** trading strategy for Hydraulic v2.1. It is designed to capture bullish reversals and dip-buying opportunities in an uptrend, specifically for Binance USDT-M Futures.
 
+<img src=".\image\logo.png" alt="alt text" width="460" height="350">
+
 ## ⚙️ Software Logic (v2.1 Improvements)
 
 - **Duplicate Prevention:** The bot tracks signals and will NOT alert for the same coin within the same 1-hour candle twice.
